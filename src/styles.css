@@ -301,6 +301,7 @@ body {
 .filters li {
 	display: inline;
 	margin-right: 10px;
+	margin-left: -15px;
 }
 
 .filters li a {
