@@ -294,19 +294,19 @@ body {
 	padding: 0;
 	list-style: none;
 	position: absolute;
-	right: 15px;
+	right: 0;
 	left: 0;
 }
 
 .filters li {
 	display: inline;
-	margin-right: -5px;
+	margin-right: 10px;
 }
 
 .filters li a {
 	color: inherit;
 	margin: 3px;
-	padding: 5px 7px;
+	padding: 3px 7px;
 	text-decoration: none;
 	border: 1px solid transparent;
 	border-radius: 3px;
